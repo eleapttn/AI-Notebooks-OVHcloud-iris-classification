@@ -1,1 +1,1 @@
-# Iris-classification-AI-Notebooks-OVHcloud
+# Classification of iris varieties with AI Notebooks (OVHcloud)
